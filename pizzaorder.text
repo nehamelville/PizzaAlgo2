@@ -1,4 +1,7 @@
 choose pizza
 order pizza
 pay for pizza
-eat pizza
+if wrong pizza is delivered
+ask for pizza replacement 
+else 
+ask for refund!!
